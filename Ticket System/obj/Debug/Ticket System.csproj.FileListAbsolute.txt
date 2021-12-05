@@ -1,0 +1,36 @@
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\bin\Debug\Ticket System.exe.config
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\bin\Debug\Ticket System.exe
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\bin\Debug\Ticket System.pdb
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.AssemblyReference.cache
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket_System.Form1.resources
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket_System.Properties.Resources.resources
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.GenerateResource.cache
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.exe
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket System.pdb
+C:\Users\xujpv\source\repos\Ticket System\Ticket System\obj\Debug\Ticket_System.NewTask.resources
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\Ticket System.exe.config
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\Ticket System.exe
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\Ticket System.pdb
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csprojAssemblyReference.cache
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket_System.Form1.resources
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket_System.NewTask.resources
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket_System.Properties.Resources.resources
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.GenerateResource.cache
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.exe
+C:\Users\wsxed\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket_System.Form1.resources
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket_System.NewTask.resources
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket_System.Properties.Resources.resources
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.GenerateResource.cache
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.exe
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\Ticket System.exe.config
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\Ticket System.exe
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\Ticket System.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\DB.dll
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\DB.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.CopyComplete
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.AssemblyReference.cache

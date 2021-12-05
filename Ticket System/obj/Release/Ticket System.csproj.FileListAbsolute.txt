@@ -1,0 +1,14 @@
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket System.csproj.AssemblyReference.cache
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket_System.Form1.resources
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket_System.NewTask.resources
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket_System.Properties.Resources.resources
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket System.csproj.GenerateResource.cache
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket System.csproj.CoreCompileInputs.cache
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Release\Ticket System.exe.config
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Release\Ticket System.exe
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Release\Ticket System.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Release\DB.dll
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Release\DB.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket System.csproj.CopyComplete
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket System.exe
+C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Release\Ticket System.pdb
