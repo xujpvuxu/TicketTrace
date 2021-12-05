@@ -1,0 +1,5 @@
+C:\Users\xujpv\OneDrive\桌面\Ticket System\DB\bin\Debug\DB.dll
+C:\Users\xujpv\OneDrive\桌面\Ticket System\DB\bin\Debug\DB.pdb
+C:\Users\xujpv\OneDrive\桌面\Ticket System\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\xujpv\OneDrive\桌面\Ticket System\DB\obj\Debug\DB.dll
+C:\Users\xujpv\OneDrive\桌面\Ticket System\DB\obj\Debug\DB.pdb
