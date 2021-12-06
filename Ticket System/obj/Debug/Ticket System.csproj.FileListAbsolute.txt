@@ -34,3 +34,17 @@ C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\DB.dll
 C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\bin\Debug\DB.pdb
 C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.CopyComplete
 C:\Users\xujpv\OneDrive\桌面\Ticket System\Ticket System\obj\Debug\Ticket System.csproj.AssemblyReference.cache
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket System.csproj.AssemblyReference.cache
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket_System.Form1.resources
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket_System.NewTask.resources
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket_System.Properties.Resources.resources
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket System.csproj.GenerateResource.cache
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket System.csproj.CoreCompileInputs.cache
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket System.exe
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket System.pdb
+D:\TFS\TicketTrace\Ticket System\bin\Debug\Ticket System.exe.config
+D:\TFS\TicketTrace\Ticket System\bin\Debug\Ticket System.exe
+D:\TFS\TicketTrace\Ticket System\bin\Debug\Ticket System.pdb
+D:\TFS\TicketTrace\Ticket System\bin\Debug\DB.dll
+D:\TFS\TicketTrace\Ticket System\bin\Debug\DB.pdb
+D:\TFS\TicketTrace\Ticket System\obj\Debug\Ticket System.csproj.CopyComplete

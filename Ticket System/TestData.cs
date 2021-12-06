@@ -19,7 +19,7 @@ namespace Ticket_System
         internal DataTable GetTaskData()
         {
             DataTable TaskData = new DataTable();
-            List<string> columnName = new List<string> { "CTIME", "TaskID", "InCharge", "描述", "嚴重度", "優先度", Constant.FINISH };
+            List<string> columnName = new List<string> { "CTIME", "TaskID", "InCharge", "描述", "嚴重度", "優先度", "完成" };
             columnName.ForEach(data => TaskData.Columns.Add(data));
             DataRow row = TaskData.NewRow();
             row["CTIME"] = DateTime.Now;
@@ -28,7 +28,7 @@ namespace Ticket_System
             row["描述"] = "測試";
             row["嚴重度"] = 0;
             row["優先度"] = 0;
-            row[Constant.FINISH] = 1;
+            row["完成"] = 1;
             TaskData.Rows.Add(row);
             return TaskData;
         }

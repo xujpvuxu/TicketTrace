@@ -27,11 +27,6 @@ namespace Ticket_System
         internal static string NAME = "姓名";
 
         /// <summary>
-        /// 完成
-        /// </summary>
-        internal static string FINISH = "完成";
-
-        /// <summary>
         /// QA
         /// </summary>
         internal static string QA = "QA";

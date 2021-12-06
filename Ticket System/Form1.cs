@@ -72,7 +72,7 @@ namespace Ticket_System
             //可修改欄位的條件
             List<Tuple<string, string>> editColumn = new List<Tuple<string, string>>
             {
-                { new Tuple<string, string>( Constant.RD, Constant.FINISH)},
+                { new Tuple<string, string>( Constant.RD, "完成")},
                 { new Tuple<string, string>( Constant.QA, "描述")},
                 { new Tuple<string, string>( Constant.PM, "嚴重度")},
                 { new Tuple<string, string>( Constant.PM, "優先度")},
@@ -88,6 +88,17 @@ namespace Ticket_System
         /// <param name="e">欄位值修改後事件</param>
         private void Show_CellEndEdit(object sender, DataGridViewCellEventArgs e)
         {
+#if !DEBUG
+            string columnName = TaskData.Columns[Show.SelectedCells[0].ColumnIndex].ToString();
+            int rowPosition = Show.SelectedCells[0].RowIndex;
+
+            string taskId = TaskData.Rows[rowPosition].Field<string>("TaskID");
+            string content = TaskData.Rows[rowPosition].Field<string>(columnName);
+
+            string sqlCommand = $@"UPDATE [任務]
+                                   SET {columnName} = N'{content}'
+                                   WHERE [TaskID] = taskId";
+#endif
             Show.ReadOnly = true;
         }
 
@@ -116,8 +127,20 @@ namespace Ticket_System
             row["描述"] = content;
             row["嚴重度"] = 99;
             row["優先度"] = 99;
-            row[Constant.FINISH] = 0;
+            row["完成"] = 0;
             TaskData.Rows.Add(row);
+
+#if !DEBUG
+            string sqlCommand = $@"INSERT INTO [任務](CTIME,TaskID,InCharge,描述,嚴重度,優先度,完成)
+                                   VALUES({DateTime.Now},
+                                          {row.Field<string>("TaskID")},
+                                          {row.Field<string>("InCharge")},
+                                          {row.Field<string>("描述")},
+                                          {row.Field<string>("嚴重度")},
+                                          {row.Field<string>("優先度")},
+                                          {row.Field<string>("完成")})";
+            DBRelated.DoSQLQuery(sqlCommand, DB.DBRelated.GetConnectString());
+#endif
         }
 
         /// <summary>
